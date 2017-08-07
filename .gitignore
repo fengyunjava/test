@@ -20,6 +20,7 @@ WebContent
 */*.iws
 */build
 */logs
+*.logs
 src/main/webapp/WEB-INF/classes
 */src/main/resources/META-INF/
 */src/main/webapp/META-INF/
